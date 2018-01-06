@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{chapter*.2}{Povzetek}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{Abstract}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Uvod}{}% 3
+\BOOKMARK [0][-]{chapter.2}{Mobilno ucenje}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Kaj ni mobilno ucenje?}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Mobilne ucne vsebine}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Dostop do mobilnih vsebin}{chapter.2}% 7
+\BOOKMARK [0][-]{chapter.3}{Gamifikacija in mehanika iger}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Tocke}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Stopnje}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{Lestvice}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.4}{Znacke}{chapter.3}% 12
+\BOOKMARK [0][-]{chapter.4}{Funkcije mobilnih naprav kot orodja za gamifikacijo mobilnega ucenja}{}% 13
+\BOOKMARK [1][-]{section.4.1}{Kamera}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{GPS}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{Glasovna kontrola}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.4}{Senzorji gibanja}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.5}{iBeacon}{chapter.4}% 18
+\BOOKMARK [0][-]{chapter.5}{Razvoj aplikacije}{}% 19
+\BOOKMARK [1][-]{section.5.1}{Tehnologije in orodja}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.2}{Knji\236nice in ogrodja}{chapter.5}% 21
+\BOOKMARK [1][-]{section.5.3}{Primeri aplikacij}{chapter.5}% 22
+\BOOKMARK [0][-]{chapter.6}{Predstavitev spletne aplikacije}{}% 23
+\BOOKMARK [1][-]{section.6.1}{Registracija spletnih virov}{chapter.6}% 24
+\BOOKMARK [1][-]{section.6.2}{Kontrolerji}{chapter.6}% 25
+\BOOKMARK [1][-]{section.6.3}{Prijavno okno}{chapter.6}% 26
+\BOOKMARK [1][-]{section.6.4}{Prikaz izzivov}{chapter.6}% 27
+\BOOKMARK [1][-]{section.6.5}{Dodajanje novih izzivov}{chapter.6}% 28
+\BOOKMARK [1][-]{section.6.6}{Urejanje vsebine izzivov}{chapter.6}% 29
+\BOOKMARK [1][-]{section.6.7}{Dodajanje vpra\235anj k izzivom}{chapter.6}% 30
+\BOOKMARK [1][-]{section.6.8}{REST API stre\236nik}{chapter.6}% 31
+\BOOKMARK [0][-]{chapter.7}{Predstavitev mobilne aplikacije}{}% 32
+\BOOKMARK [1][-]{section.7.1}{Avtentikacija}{chapter.7}% 33
+\BOOKMARK [1][-]{section.7.2}{Registracija novih uporabnikov}{chapter.7}% 34
+\BOOKMARK [1][-]{section.7.3}{Pregled aktivnosti uporabnika}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.4}{Seznam izzivov}{chapter.7}% 36
+\BOOKMARK [1][-]{section.7.5}{Prikaz posameznega izziva}{chapter.7}% 37
+\BOOKMARK [1][-]{section.7.6}{Lestvica}{chapter.7}% 38
+\BOOKMARK [0][-]{chapter.8}{Sklep}{}% 39
+\BOOKMARK [0][-]{chapter.8}{Literatura}{}% 40

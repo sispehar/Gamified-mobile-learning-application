@@ -1,0 +1,220 @@
+\begin{thebibliography}{10}
+
+\bibitem{gargame1}
+Biran Burke.
+\newblock {\em Gamify: How Gamification Motivates People to Do Extraordinary
+  Things}.
+\newblock Gartner, 2014.
+
+\bibitem{cbr}
+Andrew Cohen.
+\newblock Brainscape’s “confidence-based repetition” methodology.
+\newblock Raziskovalni članek, Brainscape, 2008.
+
+\bibitem{nint}
+Patricio Cumsille.
+\newblock Beyond nintendo: Design and assessment of educational video games for
+  first and second grade students.
+\newblock {\em Computers and Education}, 40(1):71--94, 2003.
+
+\bibitem{kay}
+Alan~C. Kay.
+\newblock A personal computer for children of all ages.
+\newblock Raziskovalni članek, Xerox Palo Alto Research Center, 1972.
+
+\bibitem{ItSMS}
+Agnes Kukulska-Hulme and John Traxler.
+\newblock Learning italian via mobile sms.
+\newblock In {\em Mobile Learning: A Handbook for Educators and Trainers},
+  pages 76--83. Routledge, 2015.
+  
+\bibitem{MLcat}
+Chad Udell and Gary Woodil.
+\newblock Categories of mobile learning content.
+\newblock In {\em Mastering mobile learning}, pages 107--109. Pfeiffer, 2015.
+
+ \section*{Spletni viri}
+ 
+\bibitem{Duolingo_stats}
+{17 Amazing Duolingo Facts and Statistics (November 2017)}.
+\newblock Dosegljivo:
+  \url{https://expandedramblings.com/index.php/duolingo-facts-statistics/}.
+\newblock [Dostopano: 17. 12. 2017].
+
+\bibitem{JSgame}
+{2D breakout game using pure JavaScript}.
+\newblock Dosegljivo:
+  \url{https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/}.
+\newblock [Dostopano: 9. 9. 2017].
+
+\bibitem{now}
+{A list of all the Google Now voice commands}.
+\newblock Dosegljivo:
+  \url{http://www.greenbot.com/article/2359684/android/a-list-of-all-the-ok-google-voice-commands.html},
+  2016.
+\newblock [Dostopano: 22. 12. 2016].
+
+\bibitem{activerecord}
+{Active record pattern}.
+\newblock Dosegljivo:
+  \url{https://en.wikipedia.org/wiki/Active_record_pattern}, 2017.
+\newblock [Dostopano: 16. 9.2017].
+
+\bibitem{larablade}
+{Blade Templates}.
+\newblock Dosegljivo: \url{https://laravel.com/docs/5.5/blade}.
+\newblock [Dostopano: 19. 9. 2017].
+
+\bibitem{BLE}
+{Bluetooth Low Energy}.
+\newblock Dosegljivo: \url{https://en.wikipedia.org/wiki/Bluetooth_Low_Energy}.
+\newblock [Dostopano: 10. 12. 2017].
+
+\bibitem{Brainscape}
+{Brainscape: The Best Flashcards App}.
+\newblock Dosegljivo: \url{https://www.brainscape.com/}.
+\newblock [Dostopano: 17. 12. 2017].
+
+
+\bibitem{evernote}
+{Cellphone Anthropology}.
+\newblock Dosegljivo:
+  \url{https://depaulmagazine.com/2014/02/28/cellphone-anthropology/}, 2014.
+\newblock [Dostopano: 19. 1. 2017].
+
+\bibitem{cordova}
+{Cordova overview}.
+\newblock Dosegljivo:
+  \url{https://cordova.apache.org/docs/en/latest/guide/overview/index.html}.
+\newblock [Dostopano: 16. 9. 2017].
+
+\bibitem{css}
+{CSS}.
+\newblock Dosegljivo: \url{https://www.w3.org/Style/CSS/Overview.en.html/}.
+\newblock [Dostopano: 9. 9. 2017].
+
+
+\bibitem{Dingo}
+{Dingo api for Laravel and Lumen}.
+\newblock Dosegljivo: \url{https://github.com/dingo/api}.
+\newblock [Dostopano: 19. 9. 2017].
+
+\bibitem{Duolingo}
+{Duolingo}.
+\newblock Dosegljivo: \url{https://www.duolingo.com/}.
+\newblock [Dostopano: 17. 12. 2017].
+
+\bibitem{ES}
+{ECMAScript}.
+\newblock Dosegljivo: \url{https://en.wikipedia.org/wiki/ECMAScript}.
+\newblock [Dostopano: 9. 9. 2017].
+
+\bibitem{geofence}
+{Geo-fence}.
+\newblock Dosegljivo: \url{https://en.wikipedia.org/wiki/Geo-fence}.
+\newblock [Dostopano: 9. 12. 2017].
+
+\bibitem{trend}
+{Google Trends}.
+\newblock Dosegljivo:
+  \url{https://www.google.com/trends/explore?date=all&q=gamification}, 2016.
+\newblock [Dostopano: 27. 12. 2016].
+
+\bibitem{GpictureTr}
+{Google’s Translate App Can Now Use Your Camera to Translate the World in
+  Real Time}.
+\newblock Dosegljivo:
+  \url{https://petapixel.com/2015/01/14/googles-translate-app-can-now-use-camera-translate-world-real-time/}.
+\newblock [Dostopano: 11. 12. 2017].
+
+\bibitem{html}
+{HTML 5.1.}
+\newblock Dosegljivo: \url{https://www.w3.org/TR/html51/}.
+\newblock [Dostopano: 9. 9. 2017].
+
+\bibitem{jwt}
+{Introduction to JSON Web Tokens}.
+\newblock Dosegljivo: \url{https://jwt.io/introduction/}.
+\newblock [Dostopano: 20. 9. 2017].
+
+\bibitem{tymon}
+{JSON Web Token Authentication for Laravel and Lumen}.
+\newblock Dosegljivo: \url{https://github.com/tymondesigns/jwt-auth/}.
+\newblock [Dostopano: 20. 9. 2017].
+
+\bibitem{Kirkpatrick}
+{Kirkpatrick's Four-Level Training Evaluation Model}.
+\newblock Dosegljivo:
+  \url{https://www.mindtools.com/pages/article/kirkpatrick.htm}.
+\newblock [Dostopano: 9. 12. 2017].
+
+
+\bibitem{laravel}
+{Laravel}.
+\newblock Dosegljivo: \url{https://laravel.com/}.
+\newblock [Dostopano: 6. 6. 2017].
+
+\bibitem{laraauth}
+{Laravel authentication}.
+\newblock Dosegljivo: \url{https://laravel.com/docs/5.4/authentication}.
+\newblock [Dostopano: 19. 9. 2017].
+
+\bibitem{nexto}
+{Nexto}.
+\newblock Dosegljivo: \url{http://nexto.io/#app}.
+\newblock [Dostopano: 19. 1. 2017].
+
+\bibitem{postman}
+{Postman rest client}.
+\newblock Dosegljivo: \url{https://www.getpostman.com/}.
+\newblock [Dostopano: 19. 9. 2017].
+
+\bibitem{Sololearn_app}
+{SoloLearn}.
+\newblock Dosegljivo: \url{https://www.sololearn.com/}.
+\newblock [Dostopano: 18. 12. 2017].
+
+\bibitem{starwalk}
+{Star Walk 2 Free - Identify Stars in the Sky Map}.
+\newblock Dosegljivo:
+  \url{https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free}.
+\newblock [Dostopano: 10. 12. 2017].
+
+\bibitem{conundra}
+{The (short) prehistory of gamification}.
+\newblock Dosegljivo:
+  \url{https://nanodome.wordpress.com/2011/08/09/the-short-prehistory-of-gamification/},
+  2016.
+\newblock [Dostopano: 27. 12. 2016].
+
+\bibitem{translate}
+{Translate images}.
+\newblock Dosegljivo:
+  \url{https://support.google.com/translate/answer/6142483?hl=en}, 2016.
+\newblock [Dostopano: 12. 1. 2016].
+
+
+
+\bibitem{firefly}
+{Vanishing Firefly Project}.
+\newblock Dosegljivo:
+  \url{http://www.clemson.edu/public/baruch/firefly_project/}, 2014.
+\newblock [Dostopano: 19. 1. 2017].
+
+\bibitem{w3c}
+{W3C}.
+\newblock Dosegljivo: \url{https://www.w3.org/}.
+\newblock [Dostopano: 9. 9. 2017].
+
+\bibitem{typescript}
+{What is TypeScript and why would I use it in place of JavaScript?}
+\newblock Dosegljivo:
+  \url{https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript}.
+\newblock [Dostopano: 9. 9. 2017].
+
+\bibitem{cando}
+{What Web Can Do Today}.
+\newblock Dosegljivo: \url{https://whatwebcando.today/}, 2017.
+\newblock [Dostopano: 13. 1. 2016].
+
+\end{thebibliography}

@@ -1,0 +1,58 @@
+\select@language {english}
+\select@language {slovene}
+\contentsline {chapter}{Povzetek}{}{chapter*.2}
+\select@language {english}
+\contentsline {chapter}{Abstract}{}{chapter*.3}
+\select@language {slovene}
+\contentsline {chapter}{\numberline {1}Uvod}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Mobilno u\IeC {\v c}enje}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Kaj ni mobilno u\IeC {\v c}enje?}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mobilne u\IeC {\v c}ne vsebine}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Dostop do mobilnih vsebin}{8}{section.2.3}
+\contentsline {chapter}{\numberline {3}Gamifikacija in mehanika iger}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}To\IeC {\v c}ke}{12}{section.3.1}
+\contentsline {section}{\numberline {3.2}Stopnje}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}Lestvice}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4}Zna\IeC {\v c}ke}{16}{section.3.4}
+\contentsline {chapter}{\numberline {4}Funkcije mobilnih naprav kot orodja za gamifikacijo mobilnega u\IeC {\v c}enja}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Kamera}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}GPS}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}Glasovna kontrola}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Senzorji gibanja}{23}{section.4.4}
+\contentsline {section}{\numberline {4.5}iBeacon}{24}{section.4.5}
+\contentsline {chapter}{\numberline {5}Razvoj aplikacije}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Tehnologije in orodja}{27}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}HTML}{28}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}PHP}{28}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}CSS}{28}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Javascript}{29}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Typescript}{29}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Git}{30}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}REST}{30}{subsection.5.1.7}
+\contentsline {section}{\numberline {5.2}Knji\IeC {\v z}nice in ogrodja}{31}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Bootstrap}{31}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Laravel}{32}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Ionic}{33}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Primeri aplikacij}{34}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Duolingo}{34}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Brainscape}{35}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}SoloLearn}{36}{subsection.5.3.3}
+\contentsline {chapter}{\numberline {6}Predstavitev spletne aplikacije}{39}{chapter.6}
+\contentsline {section}{\numberline {6.1}Registracija spletnih virov}{41}{section.6.1}
+\contentsline {section}{\numberline {6.2}Kontrolerji}{42}{section.6.2}
+\contentsline {section}{\numberline {6.3}Prijavno okno}{42}{section.6.3}
+\contentsline {section}{\numberline {6.4}Prikaz izzivov}{44}{section.6.4}
+\contentsline {section}{\numberline {6.5}Dodajanje novih izzivov}{45}{section.6.5}
+\contentsline {section}{\numberline {6.6}Urejanje vsebine izzivov}{47}{section.6.6}
+\contentsline {section}{\numberline {6.7}Dodajanje vpra\IeC {\v s}anj k izzivom}{48}{section.6.7}
+\contentsline {section}{\numberline {6.8}REST API stre\IeC {\v z}nik}{50}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}JWT avtentikacija}{51}{subsection.6.8.1}
+\contentsline {chapter}{\numberline {7}Predstavitev mobilne aplikacije}{55}{chapter.7}
+\contentsline {section}{\numberline {7.1}Avtentikacija}{56}{section.7.1}
+\contentsline {section}{\numberline {7.2}Registracija novih uporabnikov}{58}{section.7.2}
+\contentsline {section}{\numberline {7.3}Pregled aktivnosti uporabnika}{58}{section.7.3}
+\contentsline {section}{\numberline {7.4}Seznam izzivov}{60}{section.7.4}
+\contentsline {section}{\numberline {7.5}Prikaz posameznega izziva}{63}{section.7.5}
+\contentsline {section}{\numberline {7.6}Lestvica}{65}{section.7.6}
+\contentsline {chapter}{\numberline {8}Sklep}{69}{chapter.8}
+\contentsline {chapter}{Literatura}{70}{chapter.8}
